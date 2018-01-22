@@ -6,13 +6,13 @@
     <h1>Welcome to my Database for video games - Games</h1>
   <div id = "nav">
     <ul>
-      <li><a href="database_website_version.md">Back</a></li>
-	    <li><a href="companies_table.md">Companies</a></li>
-	    <li><a href="manufacturers_table.md">Manufacturers</a></li>
-	    <li><a href="genres_table.md">Genres</a></li>
-	    <li><a href="systems_table.md">Systems</a></li>
-	    <li><a href="image_gallery.md">Image Gallery</a></li>
-	    <li><a href="ratings_table.md">Ratings</a></li>
+      <li><a href="Database Website Version.md">Back</a></li>
+	    <li><a href="Companies Table.md">Companies</a></li>
+	    <li><a href="Manufacturers Table.md">Manufacturers</a></li>
+	    <li><a href="Genres Table.md">Genres</a></li>
+	    <li><a href="Systems Table.md">Systems</a></li>
+	    <li><a href="Image Gallery.md">Image Gallery</a></li>
+	    <li><a href="Ratings Table.md">Ratings</a></li>
     </ul>
   </div>
   <div id = "content">
@@ -35,7 +35,7 @@
 	<td>October 25, 2013</td>
 	<td>Warner Brothers Interactive Entertainment</td>
 	<td>Armature Studios</td>
-	<td>Nintendo 3ds</td>
+	<td>Nintendo 3DS</td>
 	<td>Action-adventure</td>
 	<td>T</td>
 </tr>
@@ -57,7 +57,7 @@
 	<td>October 25, 2013</td>
 	<td>Warner Brothers Interactive Entertainment</td>
 	<td>Armature Studios</td>
-	<td>Nintendo 3ds</td>
+	<td>Nintendo 3DS</td>
 	<td>Stealth</td>
 	<td>T</td>
 </tr>
@@ -68,7 +68,7 @@
 	<td>October 25, 2013</td>
 	<td>Warner Brothers Interactive Entertainment</td>
 	<td>DC Comics</td>
-	<td>Nintendo 3ds</td>
+	<td>Nintendo 3DS</td>
 	<td>Action-adventure</td>
 	<td>T</td>
 </tr>
@@ -79,7 +79,7 @@
 	<td>October 25, 2013</td>
 	<td>Warner Brothers Interactive Entertainment</td>
 	<td>DC Comics</td>
-	<td>Nintendo 3ds</td>
+	<td>Nintendo 3DS</td>
 	<td>Beat'em up</td>
 	<td>T</td>
 </tr>
@@ -90,7 +90,7 @@
 	<td>October 25, 2013</td>
 	<td>Warner Brothers Interactive Entertainment</td>
 	<td>DC Comics</td>
-	<td>Nintendo 3ds</td>
+	<td>Nintendo 3DS</td>
 	<td>Stealth</td>
 	<td>T</td>
 </tr>
@@ -101,7 +101,7 @@
 	<td>November 11, 2014</td>
 	<td>Ubisoft</td>
 	<td>SoMa Play</td>
-	<td>Nintendo 3ds</td>
+	<td>Nintendo 3DS</td>
 	<td>Puzzle</td>
 	<td>E</td>
 </tr>
@@ -121,7 +121,7 @@
 	<td><img src="http://upload.wikimedia.org/wikipedia/en/b/bf/Sonic_Lost_World_Wii_U_Box_art.jpg" alt="Sonic Lost World (Wii U)" height="200" width="200"></td>
 	<td>Sonic Lost World (Wii U)</td>
 	<td>October 29, 2013</td>
-	<td>SEGA</td>
+	<td>Sega</td>
 	<td>Sonic Team</td>
 	<td>Wii U</td>
 	<td>Platform</td>
@@ -132,7 +132,7 @@
 	<td><img src="http://img2.wikia.nocookie.net/__cb20130529155923/sonic/images/3/36/Sonic_Lost_World_3DS.jpg" alt="Sonic Lost World (Wii U)" height="200" width="200"></td>
 	<td>Sonic Lost World (Nintendo 3DS)</td>
 	<td>October 29, 2013</td>
-	<td>SEGA</td>
+	<td>Sega</td>
 	<td>Sonic Team</td>
 	<td>Nintendo 3DS</td>
 	<td>Action-adventure</td>
@@ -143,7 +143,7 @@
 	<td><img src="http://img2.wikia.nocookie.net/__cb20130529155923/sonic/images/3/36/Sonic_Lost_World_3DS.jpg" alt="Sonic Lost World (Nintendo 3ds)" height="200" width="200"></td>
 	<td>Sonic Lost World (Nintendo 3DS)</td>
 	<td>October 29, 2013</td>
-	<td>SEGA</td>
+	<td>Sega</td>
 	<td>Sonic Team</td>
 	<td>Nintendo 3DS</td>
 	<td>Platform</td>
@@ -154,7 +154,7 @@
 	<td><img src="http://ps3media.ign.com/ps3/image/object/105/105582/SG_3DS_1.jpg" alt="Sonic Generations (Nintendo 3ds)" height="200" width="200"></td>
 	<td>Sonic Generations (Nintendo 3DS)</td>
 	<td>November 22, 2011</td>
-	<td>SEGA</td>
+	<td>Sega</td>
 	<td>Sonic Team</td>
 	<td>Nintendo 3DS</td>
 	<td>Platform</td>
@@ -165,7 +165,7 @@
 	<td><img src="http://ps3media.ign.com/ps3/image/object/105/105582/SG_3DS_1.jpg" alt="Sonic Generations (Nintendo 3ds)" height="200" width="200"></td>
 	<td>Sonic Generations (Nintendo 3DS)</td>
 	<td>November 22, 2011</td>
-	<td>SEGA</td>
+	<td>Sega</td>
 	<td>Sonic Team</td>
 	<td>Nintendo 3DS</td>
 	<td>Action-adventure</td>
@@ -222,7 +222,7 @@
 	<td>November 4, 2014</td>
 	<td>Activision</td>
 	<td>Sledgehammer Games</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>First Person Shooter</td>
 	<td>M</td>
 </tr>
@@ -233,7 +233,7 @@
 	<td>November 4, 2014</td>
 	<td>Activision</td>
 	<td>Raven Software</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>First Person Shooter</td>
 	<td>M</td>
 </tr>
@@ -244,7 +244,7 @@
 	<td>November 4, 2014</td>
 	<td>Activision</td>
 	<td>High Moon Studios</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>First Person Shooter</td>
 	<td>M</td>
 </tr>
@@ -255,7 +255,7 @@
 	<td>April 15, 2014</td>
 	<td>Ubisoft</td>
 	<td>RedLynx</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Platform</td>
 	<td>E10+</td>
 </tr>
@@ -266,7 +266,7 @@
 	<td>April 15, 2014</td>
 	<td>Ubisoft</td>
 	<td>RedLynx</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Racing</td>
 	<td>E10+</td>
 </tr>
@@ -277,7 +277,7 @@
 	<td>April 15, 2014</td>
 	<td>Ubisoft</td>
 	<td>Ubisoft Shanghai</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Platform</td>
 	<td>E10+</td>
 </tr>
@@ -288,7 +288,7 @@
 	<td>April 15, 2014</td>
 	<td>Ubisoft</td>
 	<td>Ubisoft Ukraine</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Platform</td>
 	<td>E10+</td>
 </tr>
@@ -299,7 +299,7 @@
 	<td>April 15, 2014</td>
 	<td>Ubisoft</td>
 	<td>Ubisoft Ukraine</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Racing</td>
 	<td>E10+</td>
 </tr>
@@ -354,7 +354,7 @@
 	<td>November 22, 2013</td>
 	<td>Microsoft Studios</td>
 	<td>Double Helix Games</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Fighting</td>
 	<td>T</td>
 </tr>
@@ -365,7 +365,7 @@
 	<td>November 22, 2013</td>
 	<td>Microsoft Studios</td>
 	<td>Microsoft Studios</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Fighting</td>
 	<td>T</td>
 </tr>
@@ -376,7 +376,7 @@
 	<td>November 22, 2013</td>
 	<td>Microsoft Studios</td>
 	<td>Rare Ltd.</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Fighting</td>
 	<td>T</td>
 </tr>
@@ -387,7 +387,7 @@
 	<td>November 22, 2013</td>
 	<td>Microsoft Studios</td>
 	<td>Iron Galaxy</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Fighting</td>
 	<td>T</td>
 </tr>
@@ -398,7 +398,7 @@
 	<td>October 15, 2014</td>
 	<td>Microsoft Studios</td>
 	<td>Double Helix Games</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Fighting</td>
 	<td>T</td>
 </tr>
@@ -409,7 +409,7 @@
 	<td>October 15, 2014</td>
 	<td>Microsoft Studios</td>
 	<td>Microsoft Studios</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Fighting</td>
 	<td>T</td>
 </tr>
@@ -420,7 +420,7 @@
 	<td>October 15, 2014</td>
 	<td>Microsoft Studios</td>
 	<td>Rare Ltd.</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Fighting</td>
 	<td>T</td>
 </tr>
@@ -431,7 +431,7 @@
 	<td>October 15, 2014</td>
 	<td>Microsoft Studios</td>
 	<td>Iron Galaxy</td>
-	<td>XBox One</td>
+	<td>Xbox One</td>
 	<td>Fighting</td>
 	<td>T</td>
 </tr>
