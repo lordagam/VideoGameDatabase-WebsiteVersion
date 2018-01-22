@@ -7,13 +7,13 @@
   </div>
   <div id = "nav">
     <ul>
-      <li><a href="database_website_version.md">Back</a></li>
-	    <li><a href="companies_table.md">Companies</a></li>
-	    <li><a href="games_table.md">Games</a></li>
-	    <li><a href="manufacturers_table.md">Manufacturers</a></li>
-	    <li><a href="systems_table.md">Systems</a></li>
-	    <li><a href="image_gallery.md">Image Gallery</a></li>
-	    <li><a href="ratings_table.md">Ratings</a></li>
+      <li><a href="Database Website Version.md">Back</a></li>
+	    <li><a href="Companies Table.md">Companies</a></li>
+	    <li><a href="Games Table.md">Games</a></li>
+	    <li><a href="Manufacturers Table.md">Manufacturers</a></li>
+	    <li><a href="Systems Table.md">Systems</a></li>
+	    <li><a href="Image Gallery.md">Image Gallery</a></li>
+	    <li><a href="Ratings Table.md">Ratings</a></li>
     </ul>
   </div>
   <div id = "content">
