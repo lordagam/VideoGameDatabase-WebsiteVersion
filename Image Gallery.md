@@ -28,8 +28,8 @@
 	<li><img src="http://www.cinemablend.com/images/gallery/s63832/Call_Of_Duty__Advanced_Warfare_13991332947595.jpg" alt="Call of Duty: Advanced Warfare" height="200" width="200"/></li>
 	<li><img src="http://img.game.co.uk/ml2/2/6/2/7/262776_xbx_b.png" alt="Trials Fusion" height="200" width="200"/></li>
 	<li><img src="http://upload.wikimedia.org/wikipedia/en/a/a2/Super_Smash_Bros_for_Wii_U_Box_Art.png" alt="Super Smash Bros for Wii U" height="200" width="200"/></li>
-	<li><img src="http://upload.wikimedia.org/wikipedia/en/f/f4/SmashNintendo3DSBoxart.png" alt="Super Smash Bros for Nintendo 3DS" height="200" width="200"/></li>
-	<li><img src="http://www.fightersgeneration.com/nz2/game/killerinstinct-xbone-retail-cover.png" alt="Killer Instinct (XBox One)" height="200" width="200"/></li>
+	<li><img src="https://target.scene7.com/is/image/Target/15044637?wid=520&hei=520&fmt=pjpeg" alt="Super Smash Bros for Nintendo 3DS" height="200" width="200"/></li>
+	<li><img src="http://www.fightersgeneration.com/nz2/game/killerinstinct-xbone-retail-cover.png" alt="Killer Instinct (Xox One)" height="200" width="200"/></li>
 	<li><img src="http://media.alvanista.com/uploads/game/26/22709/medium_cover.png" alt="Roller Coaster 3D" width = "200" height = "200" /></li>
 	<li><img src="http://ecx.images-amazon.com/images/I/51jOtB5wr9L.jpg" alt="Bust-A-Move Universe" height="200" width="200"/></li>
 	<li><img src="http://www.themogblog.com/wp/wp-content/uploads/2011/08/TETRIS_AXIS_package_front.jpg" alt="Tetris Axis" height="200" width="200"/></li>
