@@ -7,13 +7,13 @@
   </div>
   <div id = "nav">
     <ul>
-			<li><a href="games_table.html">Games</a></li>
-			<li><a href="ratings_table.html">Ratings</a></li>
-			<li><a href="genres_table.html">Genres</a></li>
-			<li><a href="systems_table.html">Systems</a></li>
-			<li><a href="companies_table.html">Companies</a></li>
-			<li><a href="manufacturers_table.html">Manufacturers</li>
-			<li><a href="image_gallery.html">Image Gallery</a></li>
+			<li><a href="games_table.md">Games</a></li>
+			<li><a href="ratings_table.md">Ratings</a></li>
+			<li><a href="genres_table.md">Genres</a></li>
+			<li><a href="systems_table.md">Systems</a></li>
+			<li><a href="companies_table.md">Companies</a></li>
+			<li><a href="manufacturers_table.md">Manufacturers</li>
+			<li><a href="image_gallery.md">Image Gallery</a></li>
 		</ul>
   </div>
   <div id = "footer">
