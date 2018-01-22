@@ -24,8 +24,8 @@
 	<li><img src="http://upload.wikimedia.org/wikipedia/en/b/bf/Sonic_Lost_World_Wii_U_Box_art.jpg" alt="Sonic Lost World (Wii U)" height="200" width="200"/></li>
 	<li><img src="http://img2.wikia.nocookie.net/__cb20130529155923/sonic/images/3/36/Sonic_Lost_World_3DS.jpg" alt="Sonic Lost World (Nintendo 3DS)" height="200" width="200"/></ul>
 	<li><img src="http://ps3media.ign.com/ps3/image/object/105/105582/SG_3DS_1.jpg" alt="Sonic Generations (Nintendo 3DS)" height="200" width="200"/></li>
-	<li><img src="http://www.videogameobsession.com/videogame/3DS/3DS-KidIcarusUprising-vgo.jpg" alt="Kid Icarus: Uprising" height="200" width="200"></li>
-	<li><img src="http://www.cinemablend.com/images/gallery/s63832/Call_Of_Duty__Advanced_Warfare_13991332947595.jpg" alt="Call of Duty: Advanced Warfare" height="200" width="200"/></li>
+	<li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Kid_Icarus-Uprising_logo.jpg/220px-Kid_Icarus-Uprising_logo.jpg" alt="Kid Icarus: Uprising" height="200" width="200"></li>
+	<li><img src="https://upload.wikimedia.org/wikipedia/en/3/3b/Advanced_Warfare.jpg" alt="Call of Duty: Advanced Warfare" height="200" width="200"/></li>
 	<li><img src="http://img.game.co.uk/ml2/2/6/2/7/262776_xbx_b.png" alt="Trials Fusion" height="200" width="200"/></li>
 	<li><img src="http://upload.wikimedia.org/wikipedia/en/a/a2/Super_Smash_Bros_for_Wii_U_Box_Art.png" alt="Super Smash Bros for Wii U" height="200" width="200"/></li>
 	<li><img src="https://target.scene7.com/is/image/Target/15044637?wid=520&hei=520&fmt=pjpeg" alt="Super Smash Bros for Nintendo 3DS" height="200" width="200"/></li>
