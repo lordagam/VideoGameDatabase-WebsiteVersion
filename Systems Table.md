@@ -1,0 +1,180 @@
+<head>
+  <link href="database.md" rel="stylesheet" />
+</head>
+<body>
+  <div id = "header">
+    <h1>Welcome to my Database for video games - Systems</h1>
+  </div>
+  <div id = "nav">
+    <ul>
+      <li><a href="Database Website Version.md">Back</a></li>
+      <li><a href="Companies Table.md">Companies</a></li>
+      <li><a href="Games Table.md">Games</a></li>
+      <li><a href="Genres Table.md">Genres</a></li>
+      <li><a href="Manufacturer Table.md">Manufacturers</a></li>
+      <li><a href="Image Gallery.md">Image Gallery</a></li>
+      <li><a href="Ratings Table.md">Rating
+    </ul>
+  </div>
+  <div id = "content">
+    <h2>System</h2>
+    <table>
+      <tr>
+	<th>System Id</th>
+	<th>System Image</th>
+	<th>System Name</th>
+	<th>System Release Date</th>
+	<th>System Developer</th>
+	<th>System Manufacturer</th>
+	<th>System Type</th>
+</tr>
+<tr>	
+	<td>1</td>
+	<td><img src="http://upload.wikimedia.org/wikipedia/commons/f/f3/Wii-Console.png" alt="Nintendo Wii" height="200" width="200"/></td>
+	<td>Nintendo Wii</td>
+	<td>November 19, 2006</td>
+	<td>Nintendo</td>
+	<td>Foxconn</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>2</td>
+	<td><img src="http://blogs-images.forbes.com/jasonevangelho/files/2014/08/Interest-in-the-Wii-U-Surges-After-Nintendo-s-E3-Presentation-Report-451910-2.jpg" alt="Nintendo Wii U" height="200" width="200"/></td>
+	<td>Nintendo Wii U</td>
+	<td>November 18, 2012</td>
+	<td>Nintendo IRD</td>
+	<td>Foxconn</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>3</td>
+	<td><img src="http://blogs-images.forbes.com/jasonevangelho/files/2014/08/Interest-in-the-Wii-U-Surges-After-Nintendo-s-E3-Presentation-Report-451910-2.jpg" alt="Nintendo Wii U" height="200" width="200"></td>
+	<td>Nintendo Wii U</td>
+	<td>November 18, 2012</td>
+	<td>Nintendo NTD</td>
+	<td>Foxconn</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>4</td>
+	<td><img src="http://blogs-images.forbes.com/jasonevangelho/files/2014/08/Interest-in-the-Wii-U-Surges-After-Nintendo-s-E3-Presentation-Report-451910-2.jpg" alt="Nintendo Wii U" height="200" width="200"></td>
+	<td>Nintendo Wii U</td>
+	<td>November 18, 2012</td>
+	<td>Nintendo IRD</td>
+	<td>Nintendo</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>5</td>
+	<td><img src="http://blogs-images.forbes.com/jasonevangelho/files/2014/08/Interest-in-the-Wii-U-Surges-After-Nintendo-s-E3-Presentation-Report-451910-2.jpg" alt="Nintendo Wii U" height="200" width="200"></td>
+	<td>Nintendo Wii U</td>
+	<td>November 18, 2012</td>
+	<td>Nintendo NTD</td>
+	<td>Nintendo</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>6</td>
+	<td><img src="http://blogs-images.forbes.com/jasonevangelho/files/2014/08/Interest-in-the-Wii-U-Surges-After-Nintendo-s-E3-Presentation-Report-451910-2.jpg" alt="Nintendo Wii U" height="200" width="200"></td>
+	<td>Nintendo Wii U</td>
+	<td>November 18, 2012</td>
+	<td>Nintendo IRD</td>
+	<td>Mitsumi</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>7</td>
+	<td><img src="http://blogs-images.forbes.com/jasonevangelho/files/2014/08/Interest-in-the-Wii-U-Surges-After-Nintendo-s-E3-Presentation-Report-451910-2.jpg" alt="Nintendo Wii U" height="200" width="200"></td>
+	<td>Nintendo Wii U</td>
+	<td>November 18, 2012</td>
+	<td>Nintendo NTD</td>
+	<td>Mitsumi</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>8</td>
+	<td><img src="http://static1.gamespot.com/uploads/original/1534/15343359/2823737-6174472236-26119.jpg" alt="XBox One" height="200" width="200"></td>
+	<td>XBox One</td>
+	<td>November 18, 2013</td>
+	<td>Microsoft</td>
+	<td>Flextronics</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>9</td>
+	<td><img src="http://static1.gamespot.com/uploads/original/1534/15343359/2823737-6174472236-26119.jpg" alt="XBox One" height="200" width="200"></td>
+	<td>XBox One</td>
+	<td>November 18, 2013</td>
+	<td>Microsoft</td>
+	<td>Foxconn</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>10</td>
+	<td><img src="http://upload.wikimedia.org/wikipedia/commons/f/f0/Nintendo-3DS-AquaOpen.jpg" alt="Nintendo 3ds" height="200" width="200"></td>
+	<td>Nintendo 3DS</td>
+	<td>August 19, 2012</td>
+	<td>Nintendo RED</td>
+	<td>Foxconn</td>
+	<td>Handheld game console</td>
+</tr>
+<tr>
+	<td>11</td>
+	<td><img src="http://upload.wikimedia.org/wikipedia/commons/f/f0/Nintendo-3DS-AquaOpen.jpg" alt="Nintendo 3ds" height="200" width="200"></td>
+	<td>Nintendo 3DS</td>
+	<td>August 19, 2012</td>
+	<td>Nintendo RED</td>
+	<td>Nintendo</td>
+	<td>Handheld game console</td>
+</tr>
+<tr>
+	<td>12</td>
+	<td><img src="http://upload.wikimedia.org/wikipedia/commons/4/40/Xbox-360-Pro-wController.jpg" alt="XBox 360" height="200" width="200"></td>
+	<td>XBox 360</td>
+	<td>November 22, 2005</td>
+	<td>Microsoft</td>
+	<td>Foxconn</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>13</td>
+	<td><img src="http://upload.wikimedia.org/wikipedia/commons/4/40/Xbox-360-Pro-wController.jpg" alt="XBox 360" height="200" width="200"></td>
+	<td>XBox 360</td>
+	<td>November 22, 2005</td>
+	<td>Microsoft</td>
+	<td>Wistron</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>14</td>
+	<td><img src="http://upload.wikimedia.org/wikipedia/commons/4/40/Xbox-360-Pro-wController.jpg" alt="XBox 360" height="200" width="200"></td>
+	<td>XBox 360</td>
+	<td>November 22, 2005</td>
+	<td>Microsoft</td>
+	<td>Celestica</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>15</td>
+	<td><img src="http://upload.wikimedia.org/wikipedia/commons/4/40/Xbox-360-Pro-wController.jpg" alt="XBox 360" height="200" width="200"></td>
+	<td>XBox 360</td>
+	<td>November 22, 2005</td>
+	<td>Microsoft</td>
+	<td>Flextronics</td>
+	<td>Home Video Game Console</td>
+</tr>
+<tr>
+	<td>16</td>
+	<td><img src="http://upload.wikimedia.org/wikipedia/commons/a/a0/Nintendo-DS-Lite-Black-Open.jpg" alt="Nintendo DS Lite" height="200" width="200"></td>
+	<td>Nintendo DS Lite</td>
+	<td>June 11, 2006</td>
+	<td>Nintendo</td>
+	<td>Nintendo</td>
+	<td>Handheld game console</td>
+</tr>
+    </table>
+  </div>
+  <div id = "footer">
+    <p>Copyright &copy; 2018 Jeff Vogel</p>
+  </div>
+</body>
